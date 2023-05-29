@@ -1,0 +1,9 @@
+/home/yash/Desktop/test/src/CMakeFiles/rebuild_cache.dir
+/home/yash/Desktop/test/src/CMakeFiles/edit_cache.dir
+/home/yash/Desktop/test/src/CMakeFiles/glad.dir
+/home/yash/Desktop/test/src/CMakeFiles/app.dir
+/home/yash/Desktop/test/src/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/yash/Desktop/test/src/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/yash/Desktop/test/src/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/yash/Desktop/test/src/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/yash/Desktop/test/src/libraries/glfw/src/CMakeFiles/glfw.dir
