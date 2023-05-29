@@ -3,6 +3,7 @@
 A Minimalist clone of the popular Jetpack Joyride game written with OpenGL and C++
 
 ## Screenshots of the game
+![gamess](https://github.com/YashK2003/Jetpack-Joyride-Clone/assets/102593613/ba42b0c3-3c35-4629-a17e-c888a03b0090)
 
 ## How To Run
 ```bash
